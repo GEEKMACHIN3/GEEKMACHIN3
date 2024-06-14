@@ -15,8 +15,7 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 ---
 [![](https://visitcount.itsvg.in/api?id=GEEKMACHIN3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align="center"><a href="https://github.com/GEEKMACHIN3"><img title="GEEK MACHIN3" src="https://github-readme-stats.vercel.app/api?username=GEEKMACHINE3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

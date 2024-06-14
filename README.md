@@ -3,6 +3,21 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 
 
 ## 🌐 Socials:
+
+### KNOW MORE ABOUT ME>>>>
+<p align="center"><a href="https://github.com/noob-hackers"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/GEEKMACHIN3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://instagram.com/paradiseforhackers"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<p align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5RMbKxf5e8) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://Facebook.com/GEEKMACHIN3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/Paradiseforhackers) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@geekmachin3?si=V-l4h13zcMMh7QE-) 
 
 # 💻 Tech Stack:

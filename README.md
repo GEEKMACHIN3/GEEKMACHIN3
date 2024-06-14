@@ -9,8 +9,8 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 </p>
 
 <p align="center">
-<a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/@GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/GEEKMACHIN3-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/@GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/YouTube-GEEK MACHINE-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
-<p align="center"><a href="https://github.com/GEEKMACHIN3"><img title="Noob HAckers" src="https://github-readme-stats.vercel.app/api?username=GEEKMACHIN3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/GEEKMACHIN3"><img title="GEEK MACHINE" src="https://github-readme-stats.vercel.app/api?username=GEEKMACHIN3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GEEKMACHIN3&theme=vue-dark&hide_border=false)<br/>

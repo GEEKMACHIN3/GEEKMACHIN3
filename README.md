@@ -6,7 +6,7 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 <p align="center"><a href="https://github.com/GEEKMACHIN3"><img title="GEEK MACHINE" src="https://github-readme-stats.vercel.app/api?username=GEEKMACHIN3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <p align="center">
-<a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/GEEKMACHIN3-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/GEEK-MACHIN3-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/@GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/YouTube-GEEK MACHINE-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">

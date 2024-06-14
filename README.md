@@ -9,8 +9,6 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 <a href="https://github.com/GEEKMACHIN3/GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/GEEKMACHIN3-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/@GEEKMACHIN3"><img title="YouTube" src="https://img.shields.io/badge/YouTube-GEEK MACHINE-red?style=for-the-badge&logo=Youtube"></a>
 </p>
-
-## 🌐 Socials:
 <p align="center">
 <a href="https://t.me/GEEKMACHIN3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/paradiseforhackers"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
@@ -23,7 +21,5 @@ Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on Y
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEKMACHIN3&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GEEKMACHIN3&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on YouTube Noob Hackers and check out our blog www.noob-hackers.com
+Technology Geek 👩‍💻 and python progammer 🐍 subscribe our channel on YouTube GeeK Machine and check out our blog 
 
 
 ## 🌐 Socials:
